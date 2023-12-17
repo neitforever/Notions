@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "12345678qQ",
+      "createdAt": 1702307932338,
+      "id": 1
+    },
+    {
+      "email": "nikita@gmail.com",
+      "password": "10119831nN",
+      "createdAt": 1702814094856,
+      "id": 2
+    }
+  ],
+  "notes": []
+}
