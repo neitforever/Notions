@@ -14,5 +14,5 @@ The application has login, authorization, creation, viewing, editing pages
 - Json-server
 
 <p align="center">
-  <img alt="VS Code in action" src="./public/notions.gif">
+  <img alt="VS Code in action" src="./src/notions.jpg">
 </p>
